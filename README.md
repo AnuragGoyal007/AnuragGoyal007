@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning FEE, Python and C++ basics.
 - 💞️ I’m looking to master DSA in C++.
 - 📫 How to reach me:
--                   insta - @anurag__2203
+-     insta - @anurag__2203
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
