@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anurag Goyal
-- 👀 I’m interested in Coding and Web Development.
-- 🌱 I’m currently learning FEE, Python and C++ basics.
-- 💞️ I’m looking to master DSA in C++.
+- 👀 Interested in Coding and Web Development.
+- 🌱 Currently learning FEE, Python and C++ basics.
+- 💞️ Looking to master DSA in C++.
 - 📫 How to reach me: insta - @anurag__2203
 - 😄 Pronouns: he/him
 
