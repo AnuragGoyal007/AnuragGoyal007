@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anurag Goyal</h1>
 <h3 align="center">Aspiring AI/ML Engineer | Interested in DSA with C++ | Working on WebDev using Django | Azure-AI900 Certified</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuraggoyal007&label=Profile%20views&color=0e75b6&style=flat" alt="anuraggoyal007" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuraggoyal007" alt="anuraggoyal007" /></a> </p>
 
 - 🔭 I’m currently working on **Recipe Management System**
